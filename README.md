@@ -16,5 +16,4 @@ Here are some ideas to get you started:
 -->
 
 [![Tim's GitHub stats](https://github-readme-stats-bgpx.vercel.app/api?username=timpel301&show_icons=true&theme=dracula)](https://github.com/timpel301/github-readme-stats)
-
 [![Top Langs](https://github-readme-stats-bgpx.vercel.app/api/top-langs/?username=timpel301&size_weight=0.5&count_weight=0.5&theme=dracula&layout=compact)](https://github.com/timpel301/github-readme-stats)
